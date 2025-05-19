@@ -1,5 +1,6 @@
 numpy
 pandas
+seaborn
 streamlit
 pip
 scikit-learn
